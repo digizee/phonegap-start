@@ -4,10 +4,10 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>PhoneGap: Getting Started</name>
+	<name>Order of Service</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
+		 The order of service at St John the Apostle in Port Moody to commemorate Queen Elizabeth's 
 	</description>
 
 	<author href="http://alunny.github.com"
