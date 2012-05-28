@@ -4,14 +4,15 @@
 	id		= "com.phonegap.getting.started"
 	version 	= "1.0.0">
 
-	<name>Order of Service</name>
+	<name>Jubilee Order of Service</name>
 
 	<description>
-		 The order of service at St John the Apostle in Port Moody to commemorate Queen Elizabeth's 
+		 The order of service at St John the Apostle Anglican Church 
+		 in Port Moody used to commemorate Queen Elizabeth's Diamond Jubilee.
 	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
+	<author href="http://jhewarren.github.com"
+		email="jhewarren@digizee.com">
 		Andrew Lunny
 	</author>
 
